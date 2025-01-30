@@ -1,0 +1,17 @@
+.searchForm {
+  margin: auto;
+  padding: 10px;
+  max-width: 550px;
+  text-align: center;
+}
+
+.searchForm input {
+  height: 35px; /* Reduce the height */
+  font-size: 14px; /* Adjust font size */
+  padding: 5px 10px;
+}
+
+.searchForm button {
+  height: 35px; /* Match button height with input */
+  font-size: 14px;
+}
