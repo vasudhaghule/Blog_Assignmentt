@@ -6,12 +6,12 @@
 }
 
 .searchForm input {
-  height: 35px; /* Reduce the height */
-  font-size: 14px; /* Adjust font size */
+  height: 35px; 
+  font-size: 14px; 
   padding: 5px 10px;
 }
 
 .searchForm button {
-  height: 35px; /* Match button height with input */
+  height: 35px; 
   font-size: 14px;
 }
