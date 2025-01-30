@@ -10,6 +10,7 @@ This is a blog application built with React for the front-end and a fake JSON se
 - **State Management**: React useState and useEffect hooks
 - **Package Manager**: npm or yarn
 
+
 json-server --watch db.json --port 5000  
 
 
