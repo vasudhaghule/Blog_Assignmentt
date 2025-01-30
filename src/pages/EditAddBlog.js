@@ -72,10 +72,10 @@ const EditAddBlog = () => {
 
       let response;
       if (editmode) {
-        // If editing, send PUT request
+        
         response = await axios.put(`http://localhost:5000/blogs/${id}`, updatedData);
       } else {
-        // If adding new blog, send POST request
+       
         response = await axios.post("http://localhost:5000/blogs", updatedData);
       }
 
